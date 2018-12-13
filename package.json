@@ -1,0 +1,11 @@
+{
+  "name": "requirejs-demo",
+  "version": "1.0.0",
+  "description": "requirejs-demo",
+  "scripts": {
+    "r.js": "r.js -o tools/build.js"
+  },
+  "keywords": ["requirejs", "r.js", "module"],
+  "author": "Cuiyang",
+  "license": "MIT"
+}
