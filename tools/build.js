@@ -10,17 +10,11 @@
   paths: {
     jquery: 'lib/jquery.min',
     lodash: 'lib/lodash.min',
+    utils: 'utils',
+    underscore: 'lib/underscore.min'
   },
   modules: [{
     name: 'main'
   }],
-  fileExclusionRegExp: /^(r|build)\.js$/,
-  shim: {
-    lodash: {
-      exports: '_'
-    },
-    jquery: {
-      exports: '$'
-    }
-  }
+  fileExclusionRegExp: /^(r|build)\.js$/
 })

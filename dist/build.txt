@@ -1,6 +1,8 @@
 
 js/main.js
 ----------------
-js/lib/lodash.min.js
 js/lib/jquery.min.js
+js/lib/lodash.min.js
+js/utils.js
+js/lib/underscore.min.js
 js/main.js

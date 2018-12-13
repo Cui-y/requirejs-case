@@ -56,5 +56,9 @@ node tools/r.js -o tools/build.js
 ## 参考链接
 
 [require.js官网](https://requirejs.org/)
+
 [单页应用优化示例](https://github.com/volojs/create-template)
+
 [多页应用优化示例](https://github.com/requirejs/example-multipage-shim)
+
+[阮一峰require.js用法](http://www.ruanyifeng.com/blog/2012/11/require_js.html)
