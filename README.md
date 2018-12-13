@@ -45,7 +45,7 @@ yarn r.js
 
 ### 非全局安装requirejs
 
-> 该情况下需要[下载](https://requirejs.org/docs/download.html)r.js文件到tools文件夹
+> 该情况下需要[下载 r.js](https://requirejs.org/docs/download.html)文件到tools文件夹
 
 运行命令
 
@@ -56,5 +56,7 @@ node tools/r.js -o tools/build.js
 ## 参考链接
 
 [require.js官网](https://requirejs.org/)
+
 [单页应用优化示例](https://github.com/volojs/create-template)
+
 [多页应用优化示例](https://github.com/requirejs/example-multipage-shim)
