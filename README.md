@@ -1,4 +1,4 @@
-# RequireJS项目
+# requirejs-case
 
 ## 模块化思想
 
